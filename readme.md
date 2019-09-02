@@ -43,7 +43,7 @@ The purpose of this application is for people to make note easily
 5. Type `react-native run-android` for run this app. ***Make sure your device is connected with debugging mode***.
 
 ## Related Project
-<a href ='https://github.com/zidni0192/noteApp-backend'>Back End Book Management</a>
+<a href ='https://github.com/zidni0192/noteApp-backend'>Back End Note App</a>
 
 ### License
 [Beerware](https://en.wikipedia.org/wiki/Beerware "Beerware") © [Zidni](https://github.com/zidni0192 "Zidni")
