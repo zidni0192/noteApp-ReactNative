@@ -1,6 +1,6 @@
-<h1 align="center">Simple Book Management</h1>
+<h1 align="center">Simple Note App</h1>
 <p align="center">
-  <img width="150" src="https://diybookcovers.com/3Dmockups/assets/images/thumbs/groupF.png"/>
+  <img width="150" src="https://images-na.ssl-images-amazon.com/images/I/81nia28xsOL._SL1500_.jpg"/>
 </p>
 
 
@@ -14,18 +14,19 @@
 - [License](#license)
 
 ## Introduction
-Simple Book Management to make online book loan transactions based on app. There are several books with famous authors and can read a brief synopsis by looking at the details of the book
+Simple Note App to make online note.
 
-The purpose of this application is for people to borrow books online and easily
+The purpose of this application is for people to make note easily
 
 ## Features
-* Login
-* Register
-* And others
+* Add Notes
+* Edit Notes
+* And Other
 ## Screenshoot
 <div>
-    <img src="src/Screenshoot/screenshoot.jpg" width="200">
-    <img src="src/Screenshoot/screenshoot1.jpg"width="200">
+    <img src="src/Screenshoot/screenshoot3.jpg"width="200">
+    <img src="src/Screenshoot/screenshoot4.jpg"width="200">
+    <img src="src/Screenshoot/screenshoot1.jpg" width="200">
     <img src="src/Screenshoot/screenshoot2.jpg"width="200">
 </div>
 
@@ -36,7 +37,7 @@ The purpose of this application is for people to borrow books online and easily
 
 ## Usage for development
 1. Open your terminal or command prompt
-2. Type `git clone https://github.com/zidni0192/bookManagementMobile`
+2. Type `git clone https://github.com/zidni0192/noteApp-ReactNative`
 3. Open the folder and type `npm install` for install dependencies and `react-native link`
 4. Before run this, you must run backend first
 5. Type `react-native run-android` for run this app. ***Make sure your device is connected with debugging mode***.
